@@ -9,3 +9,5 @@ Sillhoute scores to validate number of clusters
 Plot different features based on clusters
 <br>
 added dataset 
+<br> 
+added code for clustering the data
