@@ -7,3 +7,5 @@ Used inertia.
 Sillhoute scores to validate number of clusters
 <br>
 Plot different features based on clusters
+<br>
+added dataset 
